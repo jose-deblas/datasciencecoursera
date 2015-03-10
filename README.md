@@ -1,24 +1,26 @@
 # datasciencecoursera
 Data Science - Johns Hopkins University
 
+
 A Sequence of Courses: Learn to be a Data Scientist and Apply Your Skills in a Capstone Project
 
-The Data Scientist’s Toolbox  //--> in progress
 
-R Programming
+1.- The Data Scientist’s Toolbox  // in progress
 
-Getting and Cleaning Data
+2.- R Programming
 
-Exploratory Data Analysis
+3.- Getting and Cleaning Data
 
-Reproducible Research
+4.- Exploratory Data Analysis
 
-Statistical Inference
+5.- Reproducible Research
 
-Regression Models
+6.- Statistical Inference
 
-Practical Machine Learning
+7.- Regression Models
 
-Developing Data Products
+8.- Practical Machine Learning
 
-Data Science Capstone
+9.- Developing Data Products
+
+10.-  Data Science Capstone
