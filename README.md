@@ -24,3 +24,6 @@ A Sequence of Courses: Learn to be a Data Scientist and Apply Your Skills in a C
 9.- Developing Data Products
 
 10.-  Data Science Capstone
+
+Resources
+http://datasciencespecialization.github.io/
